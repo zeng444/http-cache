@@ -1,0 +1,19 @@
+{
+  "name": "janfish/http-cache",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robert Zeng",
+      "email": "zeng444@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Janfish\\Http\\": "src/"
+    }
+  }
+}
